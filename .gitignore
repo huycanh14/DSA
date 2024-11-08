@@ -93,3 +93,7 @@ fastlane/test_output
 *.exe
 *.out
 *.app
+*
+!/**/
+!*.*
+.DS_Store
