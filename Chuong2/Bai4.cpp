@@ -1,6 +1,6 @@
 //
 //  Bai4.cpp
-//  Chuong3
+//  Chuong2
 //
 //  Created by Kain on 18/11/2024.
 //
