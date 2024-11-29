@@ -98,4 +98,4 @@ fastlane/test_output
 !*.*
 .DS_Store
 *.dSYM
-settings.json
+# settings.json

@@ -1,0 +1,11 @@
+{
+  "code-runner.executorMap": {
+    "cpp": "cd $dir && g++ -std=c++17 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+  },
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.js": "javascript",
+    "*.vue": "vue",
+    "vector": "cpp"
+  }
+}
